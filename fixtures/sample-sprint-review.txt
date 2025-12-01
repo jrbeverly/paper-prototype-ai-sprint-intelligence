@@ -1,0 +1,6 @@
+Alice: Good morning everyone. Let's start the sprint review for sprint twenty-three.
+Alice: This sprint we focused on two main areas: the transcript ingestion service and the first pass at the extraction pipeline.
+Bob: I completed the ingestion module. It now accepts VTT files and plain text transcripts.
+Carol: I worked on the extraction pipeline scaffolding. Each stage takes a context object and returns a modified context.
+Carol: We did hit one blocker this sprint. The AI model API has a token limit that affects long meetings.
+Alice: Great work everyone. Let's make sure those action items get logged.
